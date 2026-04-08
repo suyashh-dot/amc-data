@@ -1,0 +1,24 @@
+{
+  "lastUpdated": "2026-02-28",
+  "latestMonth": "Feb-26",
+  "months": [
+    "Jan-25",
+    "Feb-25",
+    "Mar-25",
+    "Apr-25",
+    "May-25",
+    "Jun-25",
+    "Jul-25",
+    "Aug-25",
+    "Sep-25",
+    "Oct-25",
+    "Nov-25",
+    "Dec-25",
+    "Jan-26",
+    "Feb-26"
+  ],
+  "totalInstruments": 1523,
+  "totalFunds": 80,
+  "version": "1.0.0",
+  "dataRepo": "https://raw.githubusercontent.com/suyashh-dot/amc-data/main"
+}
