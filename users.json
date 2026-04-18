@@ -7,6 +7,12 @@
       "name": "Admin",
       "createdAt": "2026-02-28"
     }
+    {
+      "username":"suyash",
+      "passwordHash":"43c35f1b78200d3531a833b8218293c88fce166acefc510aa08e8478e3717657",
+      "role":"viewer",
+      "name":"Suyash Singhania",
+      "createdAt":"2026-04-18"}
   ],
   "settings": {
     "allowSignup": true,
